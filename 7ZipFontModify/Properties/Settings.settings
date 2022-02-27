@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SevenZipFontModify.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BackupTo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Backup</Value>
+    </Setting>
+    <Setting Name="Files" Type="System.String" Scope="User">
+      <Value Profile="(Default)">%PROGRAMFILES%\7-Zip\7zFM.exe
+%PROGRAMFILES%\7-Zip\7zG.exe
+%PROGRAMFILES%\7-Zip\7z.sfx</Value>
+    </Setting>
+    <Setting Name="Target" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00 4D 00 53 00 20 00 53 00 68 00 65 00 6C 00 6C 00</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
